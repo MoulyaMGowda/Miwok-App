@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="family" type="id">family</item>
+    <item name="colors" type="id">colors</item>
+    <item name="phrases" type="id">phrases</item>
+</resources>
